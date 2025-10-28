@@ -13,7 +13,7 @@ Through the visually educational nature of this book and with **almost 300 custo
 <a href="https://www.amazon.com/Hands-Large-Language-Models-Understanding/dp/1098150961"><img src="images/book_cover.png" width="50%" height="50%"></a>
 
 <br>
-
+----------------
 The book is available on:
 
 * [Amazon](https://www.amazon.com/Hands-Large-Language-Models-Understanding/dp/1098150961)
@@ -111,3 +111,4 @@ Please consider citing the book if you consider it useful for your research:
 
 
 _________________________________________
+
