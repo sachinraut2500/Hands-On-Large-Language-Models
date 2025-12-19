@@ -1,6 +1,4 @@
 ﻿# Hands-On Large Language Models
- --------------------------------
-----
 
 <p align="center"><b><i>"The Illustrated LLM Book"</i></b></p>
 
@@ -99,6 +97,7 @@ Please consider citing the book if you consider it useful for your research:
 
 
 _________________________________________
+
 
 
 
