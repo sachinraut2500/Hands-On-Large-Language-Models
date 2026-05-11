@@ -46,7 +46,7 @@ We advise to run all examples through Google Colab for the easiest setup. Google
 >
 > **Nils Reimers** - Director of Machine Learning at Cohere | creator of [sentence-transformers](https://github.com/UKPLab/sentence-transformers)
 
----
+-----
 
 > "*I can’t think of another book that is more important to read right now. On every single page, I learned something that is critical to success in this era of language models.*"
 > 
