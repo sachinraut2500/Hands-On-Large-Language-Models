@@ -2,7 +2,7 @@
 
 <p align="center"><b><i>"The Illustrated LLM Book"</i></b></p>
 
-----------------------------------------------------
+-----------------------------------------------------
 
 Through the visually educational nature of this book and with **almost 300 custom made figures**, learn the practical tools and concepts you need to use Large Language Models today!
 
